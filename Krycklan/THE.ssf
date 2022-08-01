@@ -1,0 +1,139 @@
+System name: Krycklan First Try
+Stream count: 1
+
+======================
+STREAM ID: 1
+======================
+Name: Krycklan First Try
+Order: 0
+Initial values: 0.01 1 0.1 1 
+Parameters: 0 
+Reach count: 14
+Lake count: 0
+
+Reach ID: C01
+-------------------
+Name: C01
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: 
+
+Reach ID: C02
+-------------------
+Name: C02
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: 
+
+Reach ID: C04
+-------------------
+Name: C04
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs:  
+
+Reach ID: C05
+-------------------
+Name: C05
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs:  
+
+Reach ID: C06
+-------------------
+Name: C06
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: C05 
+
+Reach ID: C07
+-------------------
+Name: C07
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: C02 C04
+
+Reach ID: C09
+-------------------
+Name: C09
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: C06 C07 
+
+Reach ID: C10
+-------------------
+Name: C10
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: 
+
+Reach ID: C12
+-------------------
+Name: C12
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: C01 C10 
+
+Reach ID: C13
+-------------------
+Name: C13
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: C09 
+
+Reach ID: C14
+-------------------
+Name: C14
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs:  C20
+
+Reach ID: C15
+-------------------
+Name: C15
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: 
+
+Reach ID: C16
+-------------------
+Name: C16
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: C12 C13 C14 C15 
+
+Reach ID: C20
+-------------------
+Name: C20
+Upstream boundary latitude: 0
+Upstream boundary longitude: 0
+Downstream boundary latitude: 0
+Downstream boundary longitude: 0
+Inputs: 
+
